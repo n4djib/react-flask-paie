@@ -1,0 +1,15 @@
+= Technologies to Use: =
+========================
+- React
+- Flask
+- Flask-Restful
+- Sqlite
+- Blueprint
+- App factory
+
+
+
+
+
+
+
